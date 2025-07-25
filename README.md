@@ -7,7 +7,7 @@
 - 🌱 Learning cloud computing and modern app deployment strategies
 - 🎮 I play **Snake** 🐍 on my GitHub calendar. You can too: [GitHub Snake Game](https://github.com/Platane/snk)
 - 💬 Talk to me about **React, MongoDB, Bootstrap, APIs & clean UI**
-- 📫 Reach me at: **ramprakash.dev@example.com**
+- 📫 Reach me at: **prakashsk12@gmail.com**
 - ⚡ Fun fact: I see code like puzzle pieces waiting to click ✨
 
 ---
@@ -32,13 +32,14 @@
 ---
 
 ### 📊 GitHub Stats
-![Ram's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact)
+
+![Ram's GitHub stats](https://github-readme-stats.vercel.app/api?username=Static-knowledge&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Static-knowledge&layout=compact)
 
 ---
 
 ### 🧠 Featured Projects
-- 🌐 **[EMS Website](#)** – Responsive design with HTML, CSS, Bootstrap
+- 🌐 **[EMS Website](https://statuesque-pastelito-ad826d.netlify.app/)** – Responsive design with HTML, CSS, Bootstrap
 - ⚙️ **[MERN Demo App](#)** – Full-stack web app using React, Node.js, and MongoDB
 
 ---
