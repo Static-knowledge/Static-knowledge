@@ -53,6 +53,6 @@ Want to play it? Check out the repo here: [Platane/snk](https://github.com/Plata
 ---
 
 ### 🔗 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/ram-prakash-s-6aa27023a)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-orange?logo=javascript&logoColor=white)](https://yourportfolio.com)
 
